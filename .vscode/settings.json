@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.cursorBlinking": true,
+    "vim.cursorStylePerMode.insert": "line"
+}
